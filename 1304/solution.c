@@ -24,5 +24,3 @@ int* sumZero(int n, int* returnSize) {
 
     return arr;
 }
-
-// balls
